@@ -1,0 +1,4 @@
+com\funtl\hello\spring\cloud\zuul\fallback\WebAdminFeignFallbackProvider.class
+com\funtl\hello\spring\cloud\zuul\filter\LoginFilter.class
+com\funtl\hello\spring\cloud\zuul\fallback\WebAdminFeignFallbackProvider$1.class
+com\funtl\hello\spring\cloud\zuul\ZuulApplication.class
